@@ -1,4 +1,4 @@
-FROM tjpa229/JupyterNotebook:docker as JupyterNotebook
+FROM tjpa229/jupyternotebook:docker as JupyterNotebook
 
 USER root
 
